@@ -23,7 +23,7 @@
 1. Clone repository
 
 ```bash
-git clone https://github.com/Mirai3103/clothing_shop_java.git
+git clone https://github.com/HoangBach-1211/DATN
 ```
 
 2. Cấu hình cơ sở dữ liệu MySQL
